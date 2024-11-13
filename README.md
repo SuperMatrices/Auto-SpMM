@@ -2,7 +2,7 @@
 
 ## Run Feature Extraction
 ```shell
-cd ./feature_collect
+cd ./feature_test
 make  
 ./feature_collect /path/to/you/mtx
 ```
